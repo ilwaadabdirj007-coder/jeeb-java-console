@@ -1,3 +1,5 @@
+// iqra abdirahman ali  
+c6240273
 import java.util.Scanner;
 
 public class jeeb {
