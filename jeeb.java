@@ -1,5 +1,5 @@
-// iqra abdirahman ali  
-c6240273
+//NAME:  iqra abdirahman ali  
+// ID: c6240273
 import java.util.Scanner;
 
 public class jeeb {
